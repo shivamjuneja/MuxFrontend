@@ -1,0 +1,16 @@
+.card-body {
+  color: white;
+}
+
+i:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}
+@media only screen and (max-width:576px){
+  .footer-card{
+      margin-left: auto !important;
+      margin-right: auto !important;
+  }
+  
+}

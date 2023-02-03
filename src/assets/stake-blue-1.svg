@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180.67" height="209.11" viewBox="0 0 180.67 209.11">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-15, .cls-2 {
+        opacity: 0.81;
+        fill: url(#未命名的渐变_215);
+      }
+
+      .cls-3 {
+        fill: url(#未命名的渐变_215-2);
+      }
+
+      .cls-4 {
+        fill: url(#未命名的渐变_215-3);
+      }
+
+      .cls-5 {
+        fill: url(#未命名的渐变_215-4);
+      }
+
+      .cls-6 {
+        fill: url(#未命名的渐变_215-5);
+      }
+
+      .cls-7 {
+        fill: url(#未命名的渐变_215-6);
+      }
+
+      .cls-8 {
+        fill: url(#未命名的渐变_215-7);
+      }
+
+      .cls-9 {
+        fill: url(#未命名的渐变_215-8);
+      }
+
+      .cls-10 {
+        fill: url(#未命名的渐变_204);
+      }
+
+      .cls-11 {
+        fill: url(#未命名的渐变_215-9);
+      }
+
+      .cls-12 {
+        fill: url(#未命名的渐变_215-10);
+      }
+
+      .cls-13, .cls-14 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.83px;
+      }
+
+      .cls-13 {
+        stroke: url(#未命名的渐变_215-11);
+      }
+
+      .cls-14 {
+        stroke: url(#未命名的渐变_215-12);
+      }
+
+      .cls-15 {
+        mix-blend-mode: hard-light;
+      }
+    </style>
+    <linearGradient id="未命名的渐变_215" data-name="未命名的渐变 215" x1="90.57" y1="148.97" x2="90.57" y2="15.46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#03e7f5"/>
+      <stop offset="0.21" stop-color="#02c5f4" stop-opacity="0.77"/>
+      <stop offset="0.6" stop-color="#0189f1" stop-opacity="0.36"/>
+      <stop offset="0.87" stop-color="#0064f0" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#0055ef" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_215-2" x1="90.57" y1="210.99" x2="90.57" y2="191.52" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-3" x1="178.18" y1="182.56" x2="148.13" y2="142.3" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-4" x1="1761.42" y1="182.56" x2="1731.36" y2="142.3" gradientTransform="matrix(-1, 0, 0, 1, 1764.38, 0)" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-5" x1="177.18" y1="133.21" x2="153.42" y2="101.38" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-6" x1="1760.47" y1="133.3" x2="1737.03" y2="101.88" gradientTransform="matrix(-1, 0, 0, 1, 1764.38, 0)" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-7" x1="90.57" y1="197.26" x2="90.57" y2="151.39" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-8" x1="90.57" y1="144.35" x2="90.57" y2="98.48" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_204" data-name="未命名的渐变 204" x1="90.57" y1="117.1" x2="90.57" y2="140.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#03e7f5"/>
+      <stop offset="0.11" stop-color="#03d5f4" stop-opacity="0.9"/>
+      <stop offset="0.55" stop-color="#0191f1" stop-opacity="0.53"/>
+      <stop offset="0.86" stop-color="#0066f0" stop-opacity="0.29"/>
+      <stop offset="1" stop-color="#0055ef" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_215-9" x1="90.57" y1="170.6" x2="90.57" y2="138.85" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-10" x1="90.57" y1="180.23" x2="90.57" y2="148.48" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-11" x1="90.34" y1="203.11" x2="90.34" y2="178.74" xlink:href="#未命名的渐变_215"/>
+    <linearGradient id="未命名的渐变_215-12" x1="90.34" y1="147.76" x2="90.34" y2="123.39" xlink:href="#未命名的渐变_215"/>
+  </defs>
+  <g class="cls-1">
+    <g id="图层_2" data-name="图层 2">
+      <g id="图层_1-2" data-name="图层 1">
+        <g>
+          <rect class="cls-2" x="60.28" width="60.58" height="143.68"/>
+          <polyline class="cls-3" points="176.5 209.11 154.08 179.44 27.65 178.74 4.64 209.11"/>
+          <polygon class="cls-4" points="176.5 196.59 148.01 155.34 147.7 129.76 176.5 164.03 176.5 196.59"/>
+          <polygon class="cls-5" points="4.64 196.59 33.13 155.34 33.44 129.76 4.64 164.03 4.64 196.59"/>
+          <polygon class="cls-6" points="176.5 143.81 153.18 109.72 152.87 91.63 176.5 120.8 176.5 143.81"/>
+          <polygon class="cls-7" points="4.64 143.81 27.65 110.4 27.96 92.31 4.64 120.8 4.64 143.81"/>
+          <polyline class="cls-8" points="176.5 196.59 154.08 164.07 27.65 163.31 4.64 196.59"/>
+          <polyline class="cls-9" points="176.5 143.68 154.08 111.16 27.65 110.4 4.64 143.68"/>
+          <rect class="cls-10" x="4.64" y="120.83" width="171.86" height="22.85"/>
+          <polyline class="cls-11" points="4.64 164.03 20.84 145.01 160.53 145.01 176.5 164.03"/>
+          <polyline class="cls-12" points="4.64 173.66 20.84 154.64 160.53 154.64 176.5 173.66"/>
+          <polyline class="cls-13" points="0.42 178.74 0.42 202.69 180.26 202.69 180.26 178.74"/>
+          <polyline class="cls-14" points="0.42 123.39 0.42 147.34 180.26 147.34 180.26 123.39"/>
+          <rect class="cls-2" x="23.5" width="134.14" height="143.68"/>
+          <rect class="cls-15" x="40.33" width="100.49" height="143.68"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,198 @@
+.up-your-trade {
+    background-color: #050817;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 2560px 1000px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+@media screen and (max-width: 1080px) {
+    .up-your-trade .bg {
+        /* display: none !important; */
+    }
+
+    .up-your-trade .trade-now {
+        height: unset !important;
+        max-width: 500px !important;
+        padding: unset !important;
+        z-index: 10 !important;
+    }
+
+    .up-your-trade .trade-now .bg-icon .bg-arb {
+        height: 59px;
+        left: 37px;
+        position: absolute !important;
+        top: 410.5px !important;
+        width: 60px;
+    }
+
+    .up-your-trade .trade-now .bg-icon .bg-bsc {
+        height: 48px;
+        left: 118px;
+        position: absolute !important;
+        top: 405px !important;
+        width: 46px;
+    }
+
+    .up-your-trade .trade-now .bg-icon .bg-avax {
+        height: 54px;
+        position: absolute !important;
+        right: 53px !important;
+        top: 401.5px !important;
+        width: 54px;
+    }
+
+    .up-your-trade .trade-now .bg-icon .bg-ftm {
+        height: 36px;
+        position: absolute !important;
+        right: 24px !important;
+        top: 459.5px !important;
+        width: 33px;
+    }
+
+    .up-your-trade .trade-now .title-box {
+        align-items: center !important;
+        display: flex !important;
+        flex-flow: column !important;
+        padding-top: 80px !important;
+    }
+
+    .up-your-trade .trade-now .title-box .trade-text {
+        font-size: 12px !important;
+        line-height: 15.5px !important;
+        margin-bottom: 12px !important;
+        text-align: center;
+    }
+
+    .up-your-trade .trade-now .title-box .big-title {
+        font-size: 40px !important;
+        line-height: 48px !important;
+        text-align: center;
+    }
+
+    .up-your-trade .trade-now .title-box .sub-title {
+        font-size: 15px !important;
+        line-height: 19.5px !important;
+        margin-top: 16px !important;
+        max-width: 340px !important;
+        text-align: center;
+    }
+
+    .up-your-trade .trade-now .title-box .trade-button {
+        display: none !important;
+    }
+
+    .up-your-trade .trade-now .title-box .trade-button-mobile {
+        background: linear-gradient(90deg, #00d3e2, #27a2f8);
+        border-radius: 12px;
+        color: #040818;
+        display: inline-block !important;
+        font-size: 16px;
+        font-weight: 600;
+        height: 40px;
+        line-height: 28px;
+        margin-top: 30px;
+        padding: 6px 20px;
+        text-decoration: unset;
+    }
+
+    .up-your-trade .bg-mobile {
+        display: block !important;
+        height: 237px;
+        margin: 27px auto 0;
+        text-align: center;
+        width: 375px;
+    }
+}
+
+.up-your-trade .trade-now .title-box .big-title {
+    color: #fff;
+    /* font-family: Manrope; */
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 88px;
+}
+
+.up-your-trade .trade-now .title-box .sub-title {
+    color: #7d83af;
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 24px;
+    max-width: 630px;
+}
+
+.up-your-trade .trade-now .title-box .trade-button {
+    background: linear-gradient(90deg, #00d3e2, #27a2f8);
+    border-radius: 12px;
+    color: #040818;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 600;
+    height: 48px;
+    line-height: 28px;
+    padding-top: 40px;
+    padding: 10px 22px;
+    text-decoration: unset;
+}
+
+.up-your-trade .trade-now .title-box .trade-button-mobile {
+    display: none;
+}
+
+.up-your-trade .bg {
+    height: 1000px;
+    left: calc(50% - 1280px);
+    position: absolute;
+    width: 2560px;
+}
+
+.up-your-trade .bg-mobile {
+    display: none;
+}  
+
+.up-your-trade .trade-now {
+    height: 910px;
+    margin: 0 auto;
+    max-width: 1374px;
+    padding: 0 32px;
+    position: relative;
+}
+
+.up-your-trade .trade-now .bg-icon .bg-arb {
+    position: absolute;
+    right: 607px;
+    top: 585px;
+}
+
+.up-your-trade .trade-now .title-box {
+    padding-top: 192px;
+}
+
+.up-your-trade .trade-now .bg-icon .bg-bsc {
+    position: absolute;
+    right: 561px;
+    top: 229px;
+}
+
+.up-your-trade .trade-now .bg-icon .bg-avax {
+    position: absolute;
+    right: 4px;
+    top: 137px;
+}
+
+.up-your-trade .trade-now .bg-icon .bg-ftm {
+    position: absolute;
+    right: 549px;
+    top: 546px;
+}
+
+.up-your-trade .trade-now .title-box .trade-text {
+    color: #04cee4;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 23.5px;
+    margin-bottom: 16px;
+}

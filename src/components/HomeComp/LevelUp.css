@@ -1,0 +1,202 @@
+.up-your-trade {
+    color: #fff;
+    background-color: #050817;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 2560px 1000px;
+    overflow-x: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.up-your-trade .up-trade {
+    margin: 19px auto 0;
+    max-width: 1080px;
+}
+
+.up-your-trade .up-trade .title {
+    font-family: Manrope;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 60px;
+    text-align: center;
+}
+
+.up-your-trade .up-trade .trade-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+@media screen and (max-width: 1080px) {
+    .up-your-trade .up-trade {
+        margin: 48px auto 0 !important;
+    }
+
+    .up-your-trade .up-trade .title {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .trade-item-bg-1 {
+        background: url('https://MUX.network/trade-bg-mobile-1.png') !important;
+        background-size: 335px 99px !important;
+
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item {
+        align-items: center;
+        display: flex;
+        height: 100px !important;
+        justify-content: space-between;
+        margin-bottom: 12px;
+        width: 335px !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item .trade-icon {
+        height: 100px !important;
+        width: 91px;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-1 img {
+        width: 105px;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item .text-box {
+        width: 244px;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item .trade-title {
+        font-size: 16px !important;
+        line-height: 24px !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item .prompt-box {
+        font-size: 14px !important;
+        height: unset !important;
+        line-height: 18px !important;
+        margin: 8px auto 0 !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item .prompt-box .trade-prompt {
+        display: none !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item .prompt-box .trade-prompt-mobile {
+        display: unset !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-2 {
+        background: url("https://MUX.network/trade-bg-mobile-2.png") !important;
+        background-size: 335px 99px !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-2 img {
+        width: 88px;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-3 {
+        background: url("https://MUX.network/trade-bg-mobile-3.png") !important;
+        background-size: 335px 99px !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-3 img {
+        width: 88px;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-4 {
+        background: url("https://MUX.network/trade-bg-mobile-4.png") !important;
+        background-size: 335px 99px !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-4 img {
+        width: 88px;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-5 {
+        background: url("https://MUX.network/trade-bg-mobile-5.png") !important;
+        background-size: 335px 99px !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-5 img {
+        width: 88px;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-6 {
+        background: url("https://MUX.network/trade-bg-mobile-6.png") !important;
+        background-size: 335px 99px !important;
+    }
+
+    .up-your-trade .up-trade .trade-box .trade-item-bg-6 img {
+        width: 88px;
+    }
+    /* .up-your-trade .up-trade .trade-box .trade-item{
+        margin: 0px !important;
+    } */
+}
+
+.up-your-trade .up-trade .trade-box .trade-item {
+    background-repeat: no-repeat;
+    height: 312px;
+    position: relative;
+    width: 354px;
+    z-index: 10;
+    padding: 3px;
+}
+
+.trade-item-bg-1 {
+    background: url("https://MUX.network/trade-bg-1.png");
+
+}
+
+
+.up-your-trade .up-trade .trade-box .trade-item .trade-icon {
+    align-items: center;
+    display: flex;
+    height: 204px;
+    justify-content: center;
+}
+
+.up-your-trade .up-trade .trade-box .trade-item .trade-title {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+}
+
+.up-your-trade .up-trade .trade-box .trade-item .prompt-box {
+    align-items: center;
+    color: #a5abbc;
+    display: flex;
+    font-size: 16px;
+    height: 40px;
+    justify-content: center;
+    line-height: 20.8px;
+    margin: 4px auto 0;
+    text-align: center;
+}
+
+.up-your-trade .up-trade .trade-box .trade-item .prompt-box .trade-prompt-mobile {
+    display: none;
+}
+
+.up-your-trade .up-trade .trade-box .trade-item-bg-2 {
+    background: url("https://MUX.network/trade-bg-2.png");
+}
+
+.up-your-trade .up-trade .trade-box .trade-item-bg-3 {
+    background: url("https://MUX.network/trade-bg-3.png");
+}
+
+.up-your-trade .up-trade .trade-box .trade-item-bg-4 {
+    background: url("https://MUX.network/trade-bg-4.png");
+}
+
+.up-your-trade .up-trade .trade-box .trade-item-bg-5 {
+    background: url("https://MUX.network/trade-bg-5.png");
+}
+
+.up-your-trade .up-trade .trade-box .trade-item-bg-6 {
+    background: url("https://MUX.network/trade-bg-6.png");
+}

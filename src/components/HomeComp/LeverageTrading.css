@@ -1,0 +1,35 @@
+.heading-leverage{
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 60px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+@media only screen and (max-width:1064px){
+    .Leverage-image-box img{
+        height: 90% !important;
+    }
+}
+
+@media only screen and (max-width:991px){
+    .text-box-leverage{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .Leverage-image-box{
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+}
+@media only screen and (max-width:480px){
+    .Leverage-image-box img{
+        height: 57% !important;
+        
+    }
+    /* .leverage-row{
+        margin-bottom: 10px !important;
+    } */
+}

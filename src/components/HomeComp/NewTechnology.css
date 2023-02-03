@@ -1,0 +1,236 @@
+.new-tech {
+    background-image: url("https://MUX.network/tech-bg-1.webp");
+    background-position: top;
+    background-repeat: no-repeat;
+    /* mix-blend-mode: screen; */
+    padding-top: 160px;
+    width: 100%;
+    background: #040818;
+    color: #fff;
+}
+.new-tech .container {
+    margin: 0 auto;
+    max-width: 1080px;
+    position: relative;
+}
+.new-tech .container .bg {
+    left: -195px;
+    mix-blend-mode: lighten;
+    position: absolute;
+    top: -88px;
+    z-index: 1;
+}
+.new-tech .container .tech-container {
+    margin-left: 310px;
+    max-width: 770px;
+    position: relative;
+    z-index: 10;
+}
+.new-tech .container .tech-container .title{
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 60px;
+}
+.new-tech .container .tech-container .tech-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.new-tech .container .tech-container .tech-box .tech-item {
+    margin-top: 48px;
+    width: 360px;
+}
+.new-tech .container .tech-container .tech-box .tech-item .sub-title{
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 39px;
+    margin-top: 16px;
+}
+.feature-item:hover{
+    border:1px solid #00d8e2 !important;
+}
+@media screen and (max-width: 1080px){
+.new-tech {
+    padding-top: 36px;
+}
+.new-tech .container .bg{
+    display: none !important;
+}
+.new-tech .container .tech-container {
+    margin: 0 32px;
+}
+.new-tech .container .tech-container .title {
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+}
+.new-tech .container .tech-container .tech-box {
+    align-items: center;
+    flex-flow: column;
+    margin-top: 0;
+}
+.new-tech .container .tech-container .tech-box .tech-item {
+    margin-top: 32px;
+    width: unset;
+}
+.new-tech .container .tech-container .tech-box .tech-item .sub-title-box{
+    align-items: center;
+    display: flex;
+}
+.new-tech .container .tech-container .tech-box .tech-item .sub-title-box img {
+    height: 32px;
+    width: 32px;
+}
+.new-tech .container .tech-container .tech-box .tech-item .sub-title-box .sub-title {
+    font-size: 16px;
+    letter-spacing: unset;
+    line-height: 21px;
+    margin-left: 8px;
+    margin-top: unset;
+}
+.new-tech .container .tech-container .tech-box .tech-item .prompt {
+    font-size: 14px;
+    line-height: 20px;
+}
+.new-tech .container .feature-container {
+    margin-top: 56px;
+}
+.new-tech .container .feature-container .feature-box {
+    align-items: center;
+    flex-flow: column;
+}
+.new-tech .container .feature-container .feature-box .feature-item{
+    border: 1px solid #00d8e2 !important;
+    border-radius: 12px !important;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 127px !important;
+    margin-bottom: 12px;
+    overflow: hidden;
+    padding: unset !important;
+    position: relative;
+    width: 335px !important;
+}
+.new-tech .container .feature-container .feature-box .feature-item .bg-1{
+    background: #00a3ff;
+    filter: blur(48px);
+    height: 72px;
+    left: -16px;
+    position: absolute;
+    top: -58px;
+    width: 72px;
+}
+.new-tech .container .feature-container .feature-box .feature-item .bg-2{
+    background: #00a3ff;
+    filter: blur(48px);
+    height: 72px;
+    position: absolute;
+    right: 28px;
+    top: -68px;
+    width: 72px;
+}
+.new-tech .container .feature-container .feature-box .feature-item .bg-3 {
+    background: #00a3ff;
+    filter: blur(48px);
+    height: 72px;
+    left: 104px;
+    position: absolute;
+    top: 110px;
+    width: 72px;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box {
+    display: none !important;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box-mobile{
+    align-items: center;
+    display: flex !important;
+    height: 100%;
+    justify-content: center;
+    width: 133px;
+}
+.new-tech .container .feature-container .feature-box .feature-item .sub-title{
+    font-size: 16px !important;
+    line-height: 24px !important;
+    margin-top: 17px !important;
+    text-align: unset !important;
+}
+.new-tech .container .feature-container .feature-box .feature-item .prompt {
+    font-size: 14px !important;
+    line-height: 20px !important;
+    margin: 8px 0 0 !important;
+    text-align: unset !important;
+    width: 184px;
+}
+}
+.new-tech .container .tech-container .tech-box .tech-item .prompt {
+    color: #8694b9;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 12px;
+}
+.new-tech .container .feature-container {
+    margin-top: 160px;
+} 
+.new-tech .container .feature-container .feature-box{
+    display: flex;
+    justify-content: space-between;
+}
+.new-tech .container .feature-container .feature-box .feature-item {
+    border: 1px solid #262b39;
+    border-radius: 30px;
+    cursor: pointer;
+    height: 501px;
+    padding: 38px 0;
+    width: 329px;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box {
+    align-items: center;
+    display: flex;
+    height: 320px;
+    justify-content: center;
+    position: relative;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box .trade-icon1{
+    position: absolute;
+    top: 35px;
+    transition: top .4s;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box .trade-icon2{
+    position: absolute;
+    top: 125px;
+    transition: top .4s;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box-mobile {
+    display: none;
+}
+.new-tech .container .feature-container .feature-box .feature-item .sub-title {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 39px;
+    text-align: center;
+}
+.new-tech .container .feature-container .feature-box .feature-item .prompt{
+    color: #8694b9;
+    font-size: 16px;
+    line-height: 20.8px;
+    margin: 24px 13px 0;
+    text-align: center;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box .liquidity-icon1{
+    position: absolute;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box .liquidity-icon2 {
+    position: absolute;
+    top: 65px;
+    transition: top .4s;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box .stake-icon1{
+    position: absolute;
+}
+.new-tech .container .feature-container .feature-box .feature-item .img-box .stake-icon2 {
+    left: 97px;
+    position: absolute;
+    top: 40px;
+    transition: top .4s;
+}
